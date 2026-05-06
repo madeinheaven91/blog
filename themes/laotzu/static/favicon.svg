@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1000" height="1000"><rect width="1000" height="1000" rx="500" ry="500" fill="#a4a4a2"></rect><g transform="matrix(4,0,0,4,-0.00002288818359375,-0.00002288818359375)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="250" height="250"><svg xmlns="http://www.w3.org/2000/svg" width="250" height="250">
+	<defs>
+		<filter id="f">
+			<feGaussianBlur stdDeviation="3.5"></feGaussianBlur>
+		</filter>
+	</defs>
+	<circle cx="125" cy="125" r="116.6" fill="#7f7f7f" opacity="0.5" filter="url(#f)"></circle>
+	<circle cx="125" cy="125" r="113.2" fill="#fff"></circle>
+	<path d="m125,11.8 a56.6,56.6 0 0 1 0,113.2 56.6,56.6 0 0 0 0,113.2 113.2,113.2 0 0 0 0,-226.4"></path>
+	<circle cx="125" cy="68.4" r="17.6"></circle>
+	<circle cx="125" cy="181.6" r="17.6" fill="#fff"></circle>
+</svg></svg></g></svg>

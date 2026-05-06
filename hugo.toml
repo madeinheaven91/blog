@@ -1,0 +1,16 @@
+baseURL = 'https://blog.madeinheaven.space/'
+languageCode = 'ru-RU'
+title = 'jazz coding'
+theme = 'laotzu'
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+style = 'tokyonight-moon'
+[markup.goldmark.parser.attribute]
+block = true
+[markup]
+  [markup.tableOfContents]
+    ordered = true
+    endLevel = 3
+    startLevel = 2
